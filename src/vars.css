@@ -1,0 +1,27 @@
+/* src/styles/vars.css */
+
+/* Primary Colors */
+:root {
+    --primary-color: #1E90FF; /* Dodger Blue */
+    --secondary-color: #FF6347; /* Tomato */
+    --accent-color: #FFD700; /* Gold */
+  
+  /* Background Colors */
+    --background-color-light: #F5F5F5; /* Light Gray */
+    --background-color-dark: #333333; /* Dark Gray */
+  
+  /* Text Colors */
+    --text-color-light: #FFFFFF; /* White */
+    --text-color-dark: #000000; /* Black */
+    --text-color-muted: #9E9E9E; /* Gray */
+  
+  /* Border Colors */
+    --border-color-light: #E0E0E0; /* Light Gray */
+    --border-color-dark: #BDBDBD; /* Dark Gray */
+  
+  /* Misc Colors */
+    --success-color: #4CAF50; /* Green */
+    --warning-color: #FFC107; /* Amber */
+    --error-color: #F44336; /* Red */
+  }
+  
